@@ -1,0 +1,37 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px; 
+}
+a:hover{
+    color: rgb(9, 240, 9);
+}
+.div1{
+ background-color: white;
+ border: 1px solid rgb(165, 186, 199);
+ height: 29 0px;
+ padding: 10px;
+ text-align: center;
+ width: 200px;
+ margin: 25px;
+ margin-top: 10px;
+ /* font-size: 21px; */
+ border-radius: 7px;
+}
+.div1:hover{
+  box-shadow: 0px 0px 5px; 
+  padding:5px; 
+}
+span{
+   font-size: 20px;
+}
+main{
+ display: inline-flex;
+ justify-content: space-around;
+}
+.m1{
+   margin: 50px 0px 0px 40px;
+}
+.m2{
+   margin: 10px 0px 0px 150px;
+}
